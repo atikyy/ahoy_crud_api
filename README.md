@@ -1,6 +1,6 @@
 # ahoy_crud_api
 
-A CRUD REST API built with FastAPI, SQLAlchemy, and PostgreSQL. Built as part of the Ahoy AI/ML Internship program (Month 1 — Week 3 deliverable).
+A CRUD REST API built with FastAPI, SQLAlchemy, and PostgreSQL. Built as part of the Ahoy AI/ML Internship program (Month 1 — Week 2).
 
 ---
 
